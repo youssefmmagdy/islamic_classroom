@@ -1,0 +1,12 @@
+{
+  "appTitle": "دار القرآن",
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل الخروج",
+  "settings": "الإعدادات",
+  "profile": "الملف الشخصي",
+  "aboutUs": "من نحن",
+  "courses": "الدورات",
+  "homeworks": "الواجبات",
+  "attendance": "الحضور",
+  "version": "الإصدار {version}"
+}

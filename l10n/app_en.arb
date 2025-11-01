@@ -1,0 +1,19 @@
+{
+  "appTitle": "Dar Al-Arqam",
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings",
+  "profile": "Profile",
+  "aboutUs": "About Us",
+  "courses": "Courses",
+  "homeworks": "Homeworks", 
+  "attendance": "Attendance",
+  "version": "Version {version}",
+  "@version": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  }
+}

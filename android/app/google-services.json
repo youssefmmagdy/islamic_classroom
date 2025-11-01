@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545893215741",
+    "project_id": "dar-al-quraan",
+    "storage_bucket": "dar-al-quraan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545893215741:android:087df82b1165c8d7a1fd94",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbG1MqCqg_zOMI5ipSw8ce8QpRS5fHxyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
