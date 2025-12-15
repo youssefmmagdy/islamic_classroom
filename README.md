@@ -1,140 +1,141 @@
-# 📖 دار القرءان – نظام إدارة التعليم القرآني
+# 📖 دار القرءان – Dar Al-Qur’an Learning Management System
 
-## 📌 نظرة عامة
+## 📌 Overview | نظرة عامة
 
-**دار القرءان** هو نظام إلكتروني لإدارة التعليم القرآني، يهدف إلى تنظيم العملية التعليمية داخل دور تحفيظ القرآن،  
-ويشبه في فكرته **Google Classroom** ولكن مخصص للتعليم القرآني مع خصائص إضافية مثل:
+**دار القرءان (Dar Al-Qur’an)** is a digital Learning Management System (LMS) designed
+specifically for **Qur’an education centers**.
 
-- الحضور والغياب
-- متابعة الحفظ والمراجعة
-- الواجبات
-- متابعة مستوى الطالب
-- إتاحة المتابعة الكاملة لولي الأمر
+It is similar to **Google Classroom**, but tailored for Qur’an learning with additional
+features such as:
+- Attendance tracking
+- Memorization & revision follow-up
+- Assignments
+- Student level assessment
+- Full parental monitoring
 
-النظام يخدم **المعلم، الطالب، وولي الأمر** في منصة واحدة.
-
----
-
-## 🎯 الهدف من المشروع
-
-- تسهيل إدارة الدورات والحصص القرآنية
-- توحيد بيانات الطلاب والمعلمين
-- تمكين أولياء الأمور من متابعة أبنائهم
-- تحسين جودة المتابعة والتقييم في الحفظ والمراجعة
-- تقليل العمل الورقي وزيادة الشفافية
+يهدف النظام إلى تنظيم وإدارة العملية التعليمية في دور تحفيظ القرآن بشكل رقمي ومتطور.
 
 ---
 
-## 👨‍🏫 دور المعلم (المعلم)
+## 🎯 Project Goals | أهداف المشروع
 
-المعلم لديه لوحة تحكم تتيح له:
-
-### 📚 إدارة الدورات
-- مشاهدة جميع الدورات التي يقوم بتدريسها
-- عرض بيانات كل دورة (المنهج، المستوى، المدة، عدد الطلاب)
-- مشاهدة جميع الحصص الخاصة بكل دورة
-
-### 🕋 إدارة الحصص
-- عرض بيانات كل حصة
-- تسجيل **الحضور والغياب** لكل طالب
-- إضافة **واجب لكل حصة**:
-  - واجب جديد (حفظ جديد)
-  - واجب مراجعة
-- يتم إرسال الواجب تلقائيًا إلى جميع الطلاب المسجلين في الدورة
-
-### 👨‍🎓 إدارة الطلاب
-- مشاهدة جميع الطلاب المسجلين في الدورة
-- عرض بيانات الطالب:
-  - مقدار الحفظ (حافظ من القرآن)
-  - المستوى الحالي
-- معرفة الطالب مسجل في أي دورة
-- متابعة حضور وغياب الطالب في كل دورة
-- معرفة هل على الطالب مستحقات مالية أم لا
-- تحديد مستوى الطالب
-- متابعة الواجبات:
-  - الواجبات التي أنجزها
-  - الواجبات التي لم ينجزها
+- Organize Qur’an learning courses and sessions
+- Centralize student, teacher, and parent data
+- Enable parents to actively follow their children’s progress
+- Improve monitoring of memorization and revision
+- Reduce paperwork and improve transparency
 
 ---
 
-## 👨‍👩‍👦 دور ولي الأمر
+## 👨‍🏫 Teacher Role | دور المعلم
 
-ولي الأمر يمكنه الدخول إلى النظام باستخدام بيانات ابنه، ويستطيع:
+The teacher has a dedicated dashboard that allows them to:
 
-- الاطلاع على **نفس بيانات الطالب**
-- مشاهدة بيانات الدورات المسجل فيها الابن
-- متابعة:
-  - الحضور والغياب
-  - الواجبات المنجزة وغير المنجزة
-  - مستوى الحفظ
-  - مقدار ما تم حفظه من القرآن
-- الاطمئنان على التقدم التعليمي والسلوكي للطالب
+### 📚 Course Management | إدارة الدورات
+- View all courses they teach
+- View course details (curriculum, level, duration, number of students)
+- View all sessions belonging to each course
 
----
+### 🕋 Session Management | إدارة الحصص
+- View session details
+- Mark **attendance and absence** for each student
+- Assign homework for each session:
+  - New memorization
+  - Revision
+- Assignments are automatically sent to all students in the course
 
-## 👦 دور الطالب (اختياري / مستقبلي)
-
-- مشاهدة الواجبات المطلوبة
-- معرفة مواعيد الحصص
-- متابعة مستوى الحفظ والتقدم
-
----
-
-## 🧠 المميزات الرئيسية
-
-- 📊 نظام حضور وغياب متكامل
-- 📝 إدارة واجبات (حفظ / مراجعة)
-- 📈 متابعة مستوى الطالب وتقدمه
-- 👨‍👩‍👦 إشراك ولي الأمر في العملية التعليمية
-- 🔐 نظام صلاحيات (معلم – طالب – ولي أمر)
-- 📱 قابل للتطوير ليعمل على الويب والموبايل
+### 👨‍🎓 Student Management | إدارة الطلاب
+- View all students enrolled in a course
+- View student details:
+  - Memorized portions of the Qur’an
+  - Current learning level
+- See which courses the student is enrolled in
+- Track attendance and absence per course
+- Check student financial status (fees paid / unpaid)
+- Set or update student level
+- Track assignments:
+  - Completed assignments
+  - Missing assignments
 
 ---
 
-## 🧩 فكرة النظام
+## 👨‍👩‍👦 Parent Role | دور ولي الأمر
 
-> النظام يشبه **Google Classroom**  
-> لكن مخصص للتعليم القرآني  
-> مع إضافة:
-> - الحضور والغياب
-> - متابعة الحفظ
-> - متابعة المراجعة
-> - إشراف ولي الأمر
+Parents can log in using their child’s credentials and:
 
----
-
-## 🛠️ الحالة الحالية للمشروع
-
-- 🔄 قيد التطوير
-- 📐 التصميم الوظيفي محدد
-- 🚀 قابل للتوسع مستقبلاً
+- Access the **same student data**
+- View course details
+- Monitor:
+  - Attendance and absence
+  - Completed and missing assignments
+  - Memorization progress
+  - Student level
+- Stay fully informed about their child’s Qur’an learning journey
 
 ---
 
-## 🔮 تطويرات مستقبلية مقترحة
+## 👦 Student Role (Optional / Future) | دور الطالب (اختياري / مستقبلي)
 
-- تقارير شهرية للطالب
-- تنبيهات تلقائية لولي الأمر
-- نظام تقييم للحفظ
-- تطبيق موبايل
-- لوحة إحصائيات للإدارة
-- دعم أكثر من دار قرءان
+- View assigned homework
+- Check session schedules
+- Track memorization progress
 
 ---
 
-## 🤝 المساهمة
+## 🧠 Key Features | المميزات الرئيسية
 
-نرحب بالمساهمات، الاقتراحات، والأفكار التطويرية.  
-يمكنك فتح **Issue** أو **Pull Request**.
-
----
-
-## 📜 الترخيص
-
-هذا المشروع مخصص للأغراض التعليمية والخدمية.
+- 📊 Attendance & absence tracking
+- 📝 Assignment management (memorization & revision)
+- 📈 Student progress and level evaluation
+- 👨‍👩‍👦 Parent involvement and monitoring
+- 🔐 Role-based access (Teacher – Student – Parent)
+- 📱 Scalable for web and mobile applications
 
 ---
 
-## ✉️ تواصل
+## 🧩 System Concept | فكرة النظام
 
-في حال وجود أي استفسار أو اقتراح، لا تتردد في التواصل.
+> Similar to **Google Classroom**  
+> but designed for **Qur’an education**, with added features:
+> - Attendance tracking
+> - Memorization progress
+> - Revision follow-up
+> - Parent supervision
+
+---
+
+## 🛠️ Project Status | حالة المشروع
+
+- 🔄 Under development
+- 📐 Functional requirements defined
+- 🚀 Designed to be scalable and extensible
+
+---
+
+## 🔮 Future Enhancements | تطويرات مستقبلية
+
+- Monthly student reports
+- Automated parent notifications
+- Memorization evaluation system
+- Mobile application
+- Administrative analytics dashboard
+- Multi-center (multiple Qur’an schools) support
+
+---
+
+## 🤝 Contributing | المساهمة
+
+Contributions, ideas, and suggestions are welcome.  
+Feel free to open an **Issue** or submit a **Pull Request**.
+
+---
+
+## 📜 License | الترخيص
+
+This project is intended for **educational and community service purposes**.
+
+---
+
+## ✉️ Contact | التواصل
+
+For questions or suggestions, feel free to reach out.
