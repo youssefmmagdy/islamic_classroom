@@ -1,7 +1,7 @@
 # 📖 دار القرءان – Dar Al-Qur’an Learning Management System
 
 ## 📌 Overview | نظرة عامة
-👉 [Watch the demo video](https://drive.google.com/file/d/118-GQOXM1iY9HFYKT4ew9qZf_hPxXobQ/view?usp=sharing)
+
 **دار القرءان (Dar Al-Qur’an)** is a digital Learning Management System (LMS) designed
 specifically for **Qur’an education centers**.
 
@@ -17,6 +17,17 @@ features such as:
 
 ---
 
+## 🎥 Demo Video | فيديو توضيحي
+
+👉 **Watch the system in action:**  
+(Replace the link below with your actual video link)
+
+🔗 https://drive.google.com/file/d/118-GQOXM1iY9HFYKT4ew9qZf_hPxXobQ/view?usp=sharing
+
+> Tip: You can upload the video via GitHub Issues or use YouTube/Google Drive.
+
+---
+
 ## 🎯 Project Goals | أهداف المشروع
 
 - Organize Qur’an learning courses and sessions
@@ -29,33 +40,23 @@ features such as:
 
 ## 👨‍🏫 Teacher Role | دور المعلم
 
-The teacher has a dedicated dashboard that allows them to:
+### Capabilities | الصلاحيات
 
-### 📚 Course Management | إدارة الدورات
-- View all courses they teach
-- View course details (curriculum, level, duration, number of students)
-- View all sessions belonging to each course
-
-### 🕋 Session Management | إدارة الحصص
-- View session details
-- Mark **attendance and absence** for each student
-- Assign homework for each session:
+- View all assigned courses
+- View course details and sessions
+- Mark attendance and absence per session
+- Assign homework:
   - New memorization
   - Revision
-- Assignments are automatically sent to all students in the course
-
-### 👨‍🎓 Student Management | إدارة الطلاب
-- View all students enrolled in a course
+- Assignments are automatically sent to students
+- View enrolled students
 - View student details:
-  - Memorized portions of the Qur’an
-  - Current learning level
-- See which courses the student is enrolled in
-- Track attendance and absence per course
-- Check student financial status (fees paid / unpaid)
+  - Memorized portions
+  - Current level
+- Track student attendance per course
+- Check student financial status
 - Set or update student level
-- Track assignments:
-  - Completed assignments
-  - Missing assignments
+- Track completed and missing assignments
 
 ---
 
@@ -63,21 +64,18 @@ The teacher has a dedicated dashboard that allows them to:
 
 Parents can log in using their child’s credentials and:
 
-- Access the **same student data**
-- View course details
-- Monitor:
-  - Attendance and absence
-  - Completed and missing assignments
-  - Memorization progress
-  - Student level
-- Stay fully informed about their child’s Qur’an learning journey
+- View student profile and progress
+- View course and session details
+- Track attendance and absence
+- Monitor memorization and assignments
+- Stay informed about learning performance
 
 ---
 
-## 👦 Student Role (Optional / Future) | دور الطالب (اختياري / مستقبلي)
+## 👦 Student Role (Optional / Future) | دور الطالب
 
-- View assigned homework
-- Check session schedules
+- View homework
+- Check session schedule
 - Track memorization progress
 
 ---
@@ -85,30 +83,30 @@ Parents can log in using their child’s credentials and:
 ## 🧠 Key Features | المميزات الرئيسية
 
 - 📊 Attendance & absence tracking
-- 📝 Assignment management (memorization & revision)
-- 📈 Student progress and level evaluation
-- 👨‍👩‍👦 Parent involvement and monitoring
-- 🔐 Role-based access (Teacher – Student – Parent)
-- 📱 Scalable for web and mobile applications
+- 📝 Memorization & revision assignments
+- 📈 Student level evaluation
+- 👨‍👩‍👦 Parent monitoring access
+- 🔐 Role-based authentication
+- 📱 Scalable for web & mobile
 
 ---
 
 ## 🧩 System Concept | فكرة النظام
 
 > Similar to **Google Classroom**  
-> but designed for **Qur’an education**, with added features:
-> - Attendance tracking
-> - Memorization progress
+> but specialized for **Qur’an education**, with:
+> - Attendance
+> - Memorization tracking
 > - Revision follow-up
-> - Parent supervision
+> - Parent involvement
 
 ---
 
 ## 🛠️ Project Status | حالة المشروع
 
 - 🔄 Under development
-- 📐 Functional requirements defined
-- 🚀 Designed to be scalable and extensible
+- 📐 Requirements defined
+- 🚀 Designed for future scalability
 
 ---
 
@@ -116,17 +114,17 @@ Parents can log in using their child’s credentials and:
 
 - Monthly student reports
 - Automated parent notifications
-- Memorization evaluation system
-- Mobile application
-- Administrative analytics dashboard
-- Multi-center (multiple Qur’an schools) support
+- Memorization assessment system
+- Mobile app
+- Admin analytics dashboard
+- Multi-center support
 
 ---
 
 ## 🤝 Contributing | المساهمة
 
-Contributions, ideas, and suggestions are welcome.  
-Feel free to open an **Issue** or submit a **Pull Request**.
+Contributions are welcome!  
+Please open an **Issue** or submit a **Pull Request**.
 
 ---
 
@@ -138,4 +136,4 @@ This project is intended for **educational and community service purposes**.
 
 ## ✉️ Contact | التواصل
 
-For questions or suggestions, feel free to reach out.
+For inquiries or suggestions, feel free to reach out.
