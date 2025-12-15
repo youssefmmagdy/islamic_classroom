@@ -20,11 +20,9 @@ features such as:
 ## 🎥 Demo Video | فيديو توضيحي
 
 👉 **Watch the system in action:**  
-(Replace the link below with your actual video link)
 
 🔗 https://drive.google.com/file/d/118-GQOXM1iY9HFYKT4ew9qZf_hPxXobQ/view?usp=sharing
 
-> Tip: You can upload the video via GitHub Issues or use YouTube/Google Drive.
 
 ---
 
