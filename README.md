@@ -1,7 +1,7 @@
 # 📖 دار القرءان – Dar Al-Qur’an Learning Management System
 
 ## 📌 Overview | نظرة عامة
-
+👉 [Watch the demo video](https://drive.google.com/file/d/118-GQOXM1iY9HFYKT4ew9qZf_hPxXobQ/view?usp=sharing)
 **دار القرءان (Dar Al-Qur’an)** is a digital Learning Management System (LMS) designed
 specifically for **Qur’an education centers**.
 
